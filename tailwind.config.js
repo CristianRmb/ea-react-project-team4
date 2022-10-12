@@ -6,7 +6,7 @@ module.exports = {
     "./src/**/**/*.{js,jsx,ts,tsx,html}",
     "./src/**/**/**/*.{js,jsx,ts,tsx,html}",
     "./src/**/**/**/**/*.{js,jsx,ts,tsx,html}",
-    "./public/*.{html}",
+    "./public/*.html",
   ],
   presets: [],
   darkMode: "media", // or 'class'
