@@ -1,3 +1,5 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+/* eslint-disable eqeqeq */
 import {useState, useEffect, useCallback} from "react";
 
 function useHideNavbar() {

@@ -1,5 +1,4 @@
 import {ReactNode} from "react";
-import Section from "../../../components/shared/Section";
 import Image from "./Image";
 
 interface Props {
