@@ -47,7 +47,12 @@ function FirstSectionHP() {
             </Button>
           </div>
         </div>
-        <video autoPlay loop muted poster="assets/pages/lost-in-random/lost-in-random-poster.png" className="relative w-full">
+        <video
+          autoPlay
+          loop
+          muted
+          poster="assets/pages/lost-in-random/lost-in-random-poster.png"
+          className="relative w-full">
           <source
             src="https://media.contentapi.ea.com/content/dam/eacom/lost-in-random/videos/2021/06/with-tm/lir-keyart-cinemagraph-tm-xl.mp4"
             type="video/mp4"
@@ -60,7 +65,7 @@ function FirstSectionHP() {
           <h2 className="text-white text-center mb-5 text-xl ">
             Ora disponibile su tutte le piattaforme, inclusi PC e Nintendo Switch.
           </h2>
-          <Button url="#" className="bg-[#4D4A8A] border-[#4D4A8A] mb-5 m-auto">
+          <Button url="#" className="bg-[#4D4A8A] border-[#4D4A8a] mb-5 m-auto">
             <div className="text-white">Guarda il trailer</div>
             <svg
               viewBox="0 0 16 16"

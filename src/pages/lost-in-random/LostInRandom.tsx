@@ -32,7 +32,7 @@ function LiRHomepage() {
         free={config.free}
       />
 
-      <div className="bg-fixed bg-[url(https://media.contentapi.ea.com/content/dam/eacom/lost-in-random/common/lir-homepage-pg-bkg-xl.jpg.adapt.1920w.jpg)] ">
+      <div className="bg-cover bg-fixed bg-[url(https://media.contentapi.ea.com/content/dam/eacom/lost-in-random/common/lir-homepage-pg-bkg-xl.jpg.adapt.1920w.jpg)] ">
         <EaPlay />
         <FirstSectionHP />
         <SecondSectionHomepage />
